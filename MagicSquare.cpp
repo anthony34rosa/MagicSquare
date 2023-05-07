@@ -1,14 +1,4 @@
 /*
- * Class: CMSC140 20345
- * Instructor: Jason Lee
- * Project 5
- * Description: (Give a brief description for Project)
- * Due Date: 5/2/23
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: Anthony Rosario
- 
  *Pseudo Code
 1. Ask user for numbers to fill lo shu square
 2. Make function called fill aaray which is responsible for filling square using array
